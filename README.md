@@ -61,8 +61,8 @@
         - [x] server.c
 
 - [x] Bonus Part
-        - [x] bonusclient.c
-        - [x] bonusserver.c
+    - [x] bonusclient.c
+    - [x] bonusserver.c
 
  <!-- Contributing -->
 <h2>:wave: Contributing</h2>
