@@ -40,9 +40,8 @@
   <h2>:star2: About The Project</h2>
   <p>
     The goal of the project is to build a server/client system that communicates through UNIX signals. When the server is started, a new process is created on the Linux system, it is assigned a number that identifies it to other applications. This is the process ID, or PID, and is used throughout the system to manage running processes.
-
-	Server - Displays the PID and waits for signals. When signals are received, they are decrypted into 8-bit conjugates and displayed as characters.
-	Client - Encrypts a string of characters, bit by bit, and sends a signal to the server's PID. The signal SIGUSR1 if true, and SIGUSR2 if false.
+    Server - Displays the PID and waits for signals. When signals are received, they are decrypted into 8-bit conjugates and displayed as characters.
+    Client - Encrypts a string of characters, bit by bit, and sends a signal to the server's PID. The signal SIGUSR1 if true, and SIGUSR2 if false.
   </p>
 </div>
 </br>
